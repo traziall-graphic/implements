@@ -1,0 +1,1 @@
+# TRAZIALL Graphic - implement
